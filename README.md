@@ -1,3 +1,3 @@
 # TodoFirebase
 
-Simple todo app for android with firebase realtime database
+Simple android to do app with firebase database
