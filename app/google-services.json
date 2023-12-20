@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "818873739652",
+    "firebase_url": "https://kisa-misa23-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "kisa-misa23",
+    "storage_bucket": "kisa-misa23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818873739652:android:74b029d7eec8ef8d7955d1",
+        "android_client_info": {
+          "package_name": "com.example.todofirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAc2yBGKau1f3-lTaeTCy0VXYF2djS7uQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
